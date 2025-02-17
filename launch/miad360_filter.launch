@@ -1,0 +1,5 @@
+<launch>
+
+ <node pkg="pcl_filter_passthrough" type="passthrough" name="passthrough" respawn="false">
+ </node>
+</launch>
